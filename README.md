@@ -1,2 +1,0 @@
-# DockerNode
-proyecto de prueba 
